@@ -1,0 +1,3 @@
+G:/download/s16/bai1/cmake-build-debug/CMakeFiles/bai1.dir
+G:/download/s16/bai1/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/download/s16/bai1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
