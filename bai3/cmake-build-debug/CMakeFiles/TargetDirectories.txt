@@ -1,0 +1,3 @@
+C:/Users/HCLaptop.com/OneDrive/Máy tính/s16/bai3/cmake-build-debug/CMakeFiles/bai3.dir
+C:/Users/HCLaptop.com/OneDrive/Máy tính/s16/bai3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/HCLaptop.com/OneDrive/Máy tính/s16/bai3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
